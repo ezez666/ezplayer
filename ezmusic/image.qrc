@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/111.jpg</file>
+        <file>image/delete.png</file>
+        <file>image/comboxitem1.png</file>
+        <file>image/comboxitem2.png</file>
+        <file>image/comboxitem3.png</file>
+        <file>image/play.png</file>
+        <file>image/stop.png</file>
+        <file>image/Add.png</file>
+        <file>image/before.png</file>
+        <file>image/next.png</file>
+        <file>image/toclose.png</file>
+        <file>image/tomin.png</file>
+        <file>image/sound.png</file>
+        <file>image/sound_close.png</file>
+        <file>image/1.jpg</file>
+        <file>image/2.jpg</file>
+        <file>image/3.jpg</file>
+        <file>image/4.jpg</file>
+        <file>image/5.jpg</file>
+        <file>image/6.jpg</file>
+        <file>image/7.jpg</file>
+        <file>image/8.jpg</file>
+    </qresource>
+</RCC>
